@@ -83,5 +83,5 @@ Deployed a dynamic WordPress website on AWS EC2 for Radio Lanarkshire, replacing
 
 **Team project** – Other members handled LAMP stack, WordPress installation, and presentation delivery.
 
-📧 [Your email]  
-🔗 [Your LinkedIn URL]
+📧 ogunspraise2@gmail.com 
+🔗 https://www.linkedin.com/in/praise-oguns-17a082240?utm_source=share_via&utm_content=profile&utm_medium=member_android
